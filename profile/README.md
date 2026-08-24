@@ -1,10 +1,8 @@
-<div align="center">
+<h1 align="center">Voorhees AI</h1>
 
-# Voorhees AI
-
-**An experimental AI lab exploring new ways for people and intelligent systems to build, reason, and work together.**
-
-</div>
+<p align="center">
+  <strong>An experimental AI lab exploring new ways for people and intelligent systems to build, reason, and work together.</strong>
+</p>
 
 ## Exploring the emerging AI workflow
 
