@@ -1,33 +1,31 @@
 <h1 align="center">Voorhees AI</h1>
 
 <p align="center">
-  <strong>An experimental AI lab exploring new ways for people and intelligent systems to build, reason, and work together.</strong>
+  <strong>An experimental AI lab building and evaluating agent workflows, developer tools, and reusable automation.</strong>
 </p>
 
-## Exploring the emerging AI workflow
+## Technical focus
 
-Voorhees AI is a hands-on lab focused on turning rapidly evolving AI capabilities into practical, inspectable workflows. We experiment with current models, agent systems, tools, protocols, and interfaces to understand what is genuinely useful—and what still needs to improve.
+Voorhees AI tests current models, agent runtimes, tool protocols, and interfaces through working implementations. Projects focus on the behavior, reliability, and operational characteristics of AI-assisted systems.
 
-Our work explores areas such as:
+Areas of active work include:
 
-- Agentic software development and engineering workflows
-- Reusable skills, tools, and context for AI systems
-- Human-in-the-loop review and decision support
+- Agentic software-development workflows
+- Reusable skills, tools, and context management
 - Multi-agent coordination and task orchestration
-- Evaluation, reliability, observability, and safe autonomy
-- New interfaces for collaborating with intelligent software
+- Model and workflow evaluation
+- Reliability, observability, and failure analysis
+- Structured code review and engineering decision support
+- Interfaces for operating and inspecting agent systems
 
-## How we work
+## Engineering approach
 
-- **Build to learn.** Working prototypes reveal more than speculation alone.
-- **Stay close to the frontier.** We test emerging technologies as they become available and adopt them when they create real leverage.
-- **Keep humans in command.** AI should expand human judgment, not obscure consequential decisions.
-- **Make behavior inspectable.** Useful systems expose their evidence, assumptions, limitations, and effects.
-- **Prefer reusable primitives.** Good experiments should leave behind skills, patterns, and tools that compound over time.
-- **Measure what matters.** Novelty is interesting; reliable outcomes are the goal.
+- Implement experiments against real engineering workflows.
+- Compare model and tool behavior with repeatable evaluations.
+- Instrument tool calls, state transitions, outputs, and failure modes.
+- Extract reusable components when an approach proves useful.
+- Document system boundaries, assumptions, and observed limitations.
 
-## What to expect
+## Repositories
 
-Repositories may contain reusable agent skills, workflow experiments, developer tools, evaluations, research prototypes, and early-stage ideas. Some projects are polished; others are intentionally works in progress designed to answer a specific question.
-
-The lab evolves alongside the technology. Expect frequent experimentation, direct iteration, and a bias toward learning in public when the work is ready to share.
+Repositories contain reusable agent skills, workflow experiments, developer tooling, evaluations, and research prototypes. Maturity and support status are documented within each project.
